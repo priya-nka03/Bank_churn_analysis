@@ -28,6 +28,3 @@ Female customers and customers from Germany and France exhibit relatively higher
 
 Low engagement, even with product ownership (e.g., credit cards), increases churn risk.
 
-** Conclusion**
-
-Clear behavioral and demographic patterns exist in the data, indicating that customer churn can be predicted using variables such as age, activity status, product holding, gender, and geography.
